@@ -16,6 +16,21 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF92400583": {
+    "contest_id": 1023,
+    "language": "GNU C++11",
+    "path": "codeforces\\1023\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Pair of Toys",
+    "problem_url": "https://codeforces.com/contest/1023/problem/B",
+    "submission_id": "CF92400583",
+    "submission_url": "https://codeforces.com/contest/1023/submission/92400583",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/10/2020 11:28"
+  },
   "CF92402069": {
     "contest_id": 43,
     "language": "GNU C++11",

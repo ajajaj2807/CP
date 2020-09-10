@@ -16,6 +16,22 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF92410149": {
+    "contest_id": 479,
+    "language": "GNU C++11",
+    "path": "codeforces\\479\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/479/problem/C",
+    "submission_id": "CF92410149",
+    "submission_url": "https://codeforces.com/contest/479/submission/92410149",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Sep/10/2020 14:01"
+  },
   "CF92412077": {
     "contest_id": 1197,
     "language": "GNU C++11",

@@ -16,6 +16,26 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF92486286": {
+    "contest_id": 763,
+    "language": "GNU C++11",
+    "path": "codeforces\\763\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Timofey and a tree",
+    "problem_url": "https://codeforces.com/contest/763/problem/A",
+    "submission_id": "CF92486286",
+    "submission_url": "https://codeforces.com/contest/763/submission/92486286",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Sep/11/2020 15:37"
+  },
   "CF92495198": {
     "contest_id": 369,
     "language": "GNU C++11",

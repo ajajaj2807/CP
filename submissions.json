@@ -16,6 +16,23 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF92479531": {
+    "contest_id": 246,
+    "language": "GNU C++11",
+    "path": "codeforces\\246\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Colorful Graph",
+    "problem_url": "https://codeforces.com/contest/246/problem/D",
+    "submission_id": "CF92479531",
+    "submission_url": "https://codeforces.com/contest/246/submission/92479531",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Sep/11/2020 13:36"
+  },
   "CF92482204": {
     "contest_id": 607,
     "language": "GNU C++11",

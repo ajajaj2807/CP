@@ -16,6 +16,25 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF92580475": {
+    "contest_id": 723,
+    "language": "GNU C++11",
+    "path": "codeforces\\723\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Lakes in Berland",
+    "problem_url": "https://codeforces.com/contest/723/problem/D",
+    "submission_id": "CF92580475",
+    "submission_url": "https://codeforces.com/contest/723/submission/92580475",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Sep/12/2020 18:46"
+  },
   "CF92700803": {
     "contest_id": 382,
     "language": "GNU C++11",

@@ -16,6 +16,11 @@ using namespace std;
 const int MOD = 1e9+7;
 const int mxN = 1e5;
 
+void dbg(string s, int x){
+    cout << "\n-debugger- " << s << " - " << x << "\n";
+    return;
+}
+
 int main() {
     int n;
     cin >> n;
@@ -35,8 +40,9 @@ int main() {
     int prev = 0;
     for(int i=ans-1;i>=0;--i){
         auto it =find(arr+prev, arr+n, mxe-i);
+        // dbg("mxe-i", mxe-i);
         prev = distance(arr, it);
-        cout << prev+1 << " ";
+        cout << distance(arr, it)+1 << " ";
     }
 
 }

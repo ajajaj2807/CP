@@ -16,6 +16,25 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF93536755": {
+    "contest_id": 1176,
+    "language": "GNU C++17",
+    "path": "codeforces\\1176\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Cover it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/E",
+    "submission_id": "CF93536755",
+    "submission_url": "https://codeforces.com/contest/1176/submission/93536755",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Sep/23/2020 12:33"
+  },
   "CF93540279": {
     "contest_id": 1256,
     "language": "GNU C++17",

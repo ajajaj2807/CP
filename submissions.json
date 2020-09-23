@@ -16,6 +16,22 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF93559063": {
+    "contest_id": 49,
+    "language": "GNU C++17",
+    "path": "codeforces\\49\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Disposition",
+    "problem_url": "https://codeforces.com/contest/49/problem/C",
+    "submission_id": "CF93559063",
+    "submission_url": "https://codeforces.com/contest/49/submission/93559063",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/23/2020 17:50"
+  },
   "CF93579257": {
     "contest_id": 1153,
     "language": "GNU C++17",

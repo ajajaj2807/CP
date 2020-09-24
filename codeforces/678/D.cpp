@@ -32,6 +32,7 @@ ll _pow(ll a, ll b){
 ll inv(const ll &a){
     return _pow(a, MOD-2)%MOD;
 }
+
 int main() {
     ll A, B, n, x;
     cin >> A >> B >> n >> x;
@@ -44,5 +45,5 @@ int main() {
         sum2 = ((n % MOD) * B) % MOD;
     else
         sum2 = B * (((_pow(A, n) - 1) % MOD * inv(A - 1)) % MOD);
-    cout << (sum + sum2 % MOD) % MOD;
+    cout << (sum + sum2 % MOD) % MOD << endl;
 }

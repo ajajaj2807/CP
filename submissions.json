@@ -16,6 +16,21 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF93644987": {
+    "contest_id": 106,
+    "language": "GNU C++17",
+    "path": "codeforces\\106\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/106/problem/A",
+    "submission_id": "CF93644987",
+    "submission_url": "https://codeforces.com/contest/106/submission/93644987",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/24/2020 18:53"
+  },
   "CF93660385": {
     "contest_id": 1420,
     "language": "GNU C++17",

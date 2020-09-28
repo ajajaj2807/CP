@@ -16,6 +16,22 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF94130207": {
+    "contest_id": 813,
+    "language": "GNU C++17",
+    "path": "codeforces\\813\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "The Tag Game",
+    "problem_url": "https://codeforces.com/contest/813/problem/C",
+    "submission_id": "CF94130207",
+    "submission_url": "https://codeforces.com/contest/813/submission/94130207",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Sep/28/2020 18:47"
+  },
   "CF94179990": {
     "contest_id": 1362,
     "language": "GNU C++17",

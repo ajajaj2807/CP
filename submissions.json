@@ -16,6 +16,22 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF94184664": {
+    "contest_id": 449,
+    "language": "GNU C++17",
+    "path": "codeforces\\449\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Jzzhu and Chocolate",
+    "problem_url": "https://codeforces.com/contest/449/problem/A",
+    "submission_id": "CF94184664",
+    "submission_url": "https://codeforces.com/contest/449/submission/94184664",
+    "tags": [
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/29/2020 12:24"
+  },
   "CF94209903": {
     "contest_id": 405,
     "language": "GNU C++17",

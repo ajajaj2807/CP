@@ -16,6 +16,23 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF94209903": {
+    "contest_id": 405,
+    "language": "GNU C++17",
+    "path": "codeforces\\405\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Toy Sum",
+    "problem_url": "https://codeforces.com/contest/405/problem/D",
+    "submission_id": "CF94209903",
+    "submission_url": "https://codeforces.com/contest/405/submission/94209903",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/29/2020 18:15"
+  },
   "CF94281527": {
     "contest_id": 294,
     "language": "GNU C++17",

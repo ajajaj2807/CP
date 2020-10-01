@@ -16,6 +16,23 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF94374807": {
+    "contest_id": 216,
+    "language": "GNU C++17",
+    "path": "codeforces\\216\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Spider's Web",
+    "problem_url": "https://codeforces.com/contest/216/problem/D",
+    "submission_id": "CF94374807",
+    "submission_url": "https://codeforces.com/contest/216/submission/94374807",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Oct/01/2020 10:29"
+  },
   "CF94393286": {
     "contest_id": 193,
     "language": "GNU C++17",

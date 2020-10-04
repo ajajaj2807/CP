@@ -16,6 +16,21 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF94645181": {
+    "contest_id": 93,
+    "language": "GNU C++17",
+    "path": "codeforces\\93\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Frames",
+    "problem_url": "https://codeforces.com/contest/93/problem/A",
+    "submission_id": "CF94645181",
+    "submission_url": "https://codeforces.com/contest/93/submission/94645181",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Oct/04/2020 18:02"
+  },
   "CF94652553": {
     "contest_id": 581,
     "language": "GNU C++17",

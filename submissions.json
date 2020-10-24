@@ -16,6 +16,21 @@
     ],
     "timestamp": "Dec/06/2020 18:37"
   },
+  "CF96540226": {
+    "contest_id": 1436,
+    "language": "GNU C++17",
+    "path": "codeforces\\1436\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Reorder",
+    "problem_url": "https://codeforces.com/contest/1436/problem/A",
+    "submission_id": "CF96540226",
+    "submission_url": "https://codeforces.com/contest/1436/submission/96540226",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/24/2020 19:42"
+  },
   "CF96561649": {
     "contest_id": 1436,
     "language": "GNU C++17",

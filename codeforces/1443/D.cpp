@@ -20,15 +20,19 @@ const int mxN = 1e5;
 
 // don't forget overflow
 void solve() {
-    int n, diff, td = 0;
+    int n;
     cin >> n;
     int a[n];
     f(i, n) {cin >> a[i];}
+    int diff[n] = {0};
+    int mn = 1e9;
+    ll td = 0;
     f(i, n-1){
-        diff = a[i]-a[i+1];
-        if(diff>0){
-            td+=diff;
+        if(a[i]>a[i+1]){
+            diff[i] = a[i]-a[i+1];
+            // a[i] = a[i+1];
         }
+        td+=diff[i];
     }
     cout << ((td<=a[0])?"YES":"NO") << "\n";
 }

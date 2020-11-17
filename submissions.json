@@ -15,5 +15,21 @@
       "*1600"
     ],
     "timestamp": "Dec/06/2020 18:37"
+  },
+  "CF98669746": {
+    "contest_id": 1017,
+    "language": "GNU C++17",
+    "path": "codeforces\\1017\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "The Phone Number",
+    "problem_url": "https://codeforces.com/contest/1017/problem/C",
+    "submission_id": "CF98669746",
+    "submission_url": "https://codeforces.com/contest/1017/submission/98669746",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/17/2020 16:03"
   }
 }
